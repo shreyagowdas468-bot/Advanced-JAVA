@@ -1,21 +1,28 @@
-package ArrayList;
-
-import java.util.*;
+/*2. Remove the following all elements from the HashMap then verify that its size is zero and  include once again following elements and check its size 
+(1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”) [ Hint : clear() , size() and put()] */
+package HashMap;
+import java.util.HashMap;
+import java.util.Map;
+//2. Remove the following  all elements from the HashMap  then verify that its size is zero and 
+//include once again following elements and check its size
 public class p2 {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		List<String> ls = new ArrayList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
-		System.out.println(ls);
-		ls.remove(2);
-		System.out.println(ls);
-		ls.remove("Blue");
-		System.out.println(ls);
+		Map< Integer,String> hashMap = new HashMap<>();
+		// 1. Basic Operations
+		// Adding elements
+		hashMap.put(1,"Apple");
+		hashMap.put(2,"Strawberry");
+		hashMap.put(3,"Pear");
+		hashMap.put(4,"Cucumber");
+		hashMap.put(5,"Grapes");
+		hashMap.clear();
+		System.out.println("After removing All elements size : "+hashMap.size());
+		hashMap.put(1,"Apple");
+		hashMap.put(2,"Strawberry");
+		hashMap.put(3,"Pear");
+		hashMap.put(4,"Cucumber");
+		hashMap.put(5,"Grapes");
+		System.out.println("After Adding All elements size : "+hashMap.size());
 	}
 
-}
+}		

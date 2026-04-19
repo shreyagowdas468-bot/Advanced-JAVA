@@ -1,25 +1,25 @@
-//Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not 
-//( Hint : Use ArrayListObj.contains() ) 
-
-
-package ArrayList;
-
+/* 1. Write a Java program to traverse / iterate all the keys with  the specified value in a HashMap 
+(1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)*/
+package HashMap;
+import java.util.HashMap;
 import java.util.*;
-public class p1 {
+import java.util.Map.Entry;
 
+public class p1 {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		List<String> ls = new ArrayList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		System.out.println(ls);
-		if(ls.contains("red")) {
-			System.out.println("available");
-		}else {
-			System.out.println("available not");
+		HashMap< Integer,String> hashMap = new HashMap<>();
+		hashMap.put(1,"Apple");
+		hashMap.put(2,"Strawberry");
+		hashMap.put(3,"Pear");
+		hashMap.put(4,"Cucumber");
+		hashMap.put(5,"Grapes");
+	
+		System.out.println("Iterating over entries:");
+		for (Entry<Integer, String> entry : hashMap.entrySet()) {
+		System.out.println("Key: "+entry.getKey() + " -> Value: " + entry.getValue());
 		}
+		
 	}
+	
 
 }
