@@ -117,6 +117,24 @@ EXPERIMENT 2 OUTPUT p12: https://github.com/user-attachments/assets/d636df1a-e5c
 
 
 
+EXPERIMENT 3 OUTPUT STRINGHANDLING: https://github.com/user-attachments/assets/06bb8e44-f807-4a34-a9c1-7c081992fcdb
+
+
+
+
+EXPERIMENT 3 OUTPUT STRINGHANDLINGDEMO: https://github.com/user-attachments/assets/f349d411-8178-4eda-a06d-42b07bcc42dd
+ https://github.com/user-attachments/assets/d9b00b59-4f8c-4fab-bb8e-8ef2f7c9e5e7
+
+
+
+
+
+
+
+
+
+
+
 
 
 
