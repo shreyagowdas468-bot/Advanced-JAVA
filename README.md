@@ -162,6 +162,42 @@ EXPERIMENT 5 OUTPUT SwingExample:  https://github.com/user-attachments/assets/db
 
 
 
+EXPERIMENT 6 OUTPUT ColorTabbedPane: https://github.com/user-attachments/assets/c231a387-764a-4c9f-9055-fd7cf4f4170e
+
+
+
+
+
+
+EXPERIMENT 6 OUTPUT CountryCpitaList: https://github.com/user-attachments/assets/0c179c04-02ba-4e15-9005-0e78e8fd1901
+ https://github.com/user-attachments/assets/b4c28fb0-3044-4023-957c-9aa777e5d7fe
+
+
+
+
+
+EXPERIMENT 6 OUTPUT JListExample: https://github.com/user-attachments/assets/9c3dc57a-c199-4109-8cf1-3a84033df8cd
+ https://github.com/user-attachments/assets/324c159f-a198-48c4-85a0-923313eb2948
+
+
+
+
+
+
+EXPERIMENT 6 OUTPUT TabbedPaneExample https://github.com/user-attachments/assets/4ce945fe-2401-4902-aa95-e9caba53020b
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
