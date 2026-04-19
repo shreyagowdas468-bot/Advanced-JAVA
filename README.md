@@ -56,18 +56,56 @@ EXPERIMENT 2 OUTPUT p1: https://github.com/user-attachments/assets/18ac9574-ff74
 
 
 
-EXPERIMENT OUTPUT p2: https://github.com/user-attachments/assets/56653be7-9197-4f1c-83e6-f35f213a33d6
+EXPERIMENT 2 OUTPUT p2: https://github.com/user-attachments/assets/56653be7-9197-4f1c-83e6-f35f213a33d6
 
 
 
 
-EXPERIMENT OUTPUT p3: https://github.com/user-attachments/assets/a6d7f662-a257-45f3-ac31-74652bef9c18
+EXPERIMENT 2 OUTPUT p3: https://github.com/user-attachments/assets/a6d7f662-a257-45f3-ac31-74652bef9c18
 
 
 
 
 
-EXPERIMENT OUTPUT p4: https://github.com/user-attachments/assets/f73ffd4e-35cd-47a6-b85a-6480223a583b
+EXPERIMENT 2 OUTPUT p4: https://github.com/user-attachments/assets/f73ffd4e-35cd-47a6-b85a-6480223a583b
+
+
+
+
+
+EXPERIMENT 2 OUTPUT p5:  https://github.com/user-attachments/assets/62617edd-b963-435e-bd99-edad000f8ee7
+
+
+EXPERIMENT 2 OUTPUT p6: https://github.com/user-attachments/assets/5e9ae159-aae7-47b3-8b21-5d5082254852
+
+
+
+EXPERIMENT 2 OUTPUT p7: https://github.com/user-attachments/assets/1d3c887a-2a80-4489-baf9-3e55e5b701e3 
+
+
+
+
+
+EXPERIMENT 2 OUTPUT p8: https://github.com/user-attachments/assets/8e6dea59-56b6-4e37-8612-3fc012820643
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 
