@@ -19,10 +19,26 @@ EXPERIMENT 1 OUTPUT P4: https://github.com/user-attachments/assets/b09134bd-c8b4
 
 
 
-
-
 EXPERIMENT 1 OUTPUT P5: https://github.com/user-attachments/assets/22410588-6a03-4dda-8936-ac9b24df34de
 
+
+
+EXPERIMENT 1 OUTPUT P6: https://github.com/user-attachments/assets/d510ae24-1c85-4023-b9d6-3db9597e23f2
+
+
+
+EXPERIMENT 1 OUTPUT P7:   https://github.com/user-attachments/assets/a822bf31-3c6a-40bf-bec4-98ad373c3972
+
+
+EXPERIMENT 1 OUTPUT P8:   https://github.com/user-attachments/assets/7786d74f-87fd-49d0-bdc6-30b0c639fbd1
+
+
+
+EXPERIMENT 1 OUTPUT P9: https://github.com/user-attachments/assets/e19c576a-4c5c-41e2-a4b6-ef72e31e37f8
+
+
+
+EXPERIMENT 1 OUTPUT P10:  https://github.com/user-attachments/assets/669227bd-0998-49fe-bfe5-ba80ac2ac756
 
 
 
