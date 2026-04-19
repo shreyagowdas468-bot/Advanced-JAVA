@@ -129,6 +129,22 @@ EXPERIMENT 3 OUTPUT STRINGHANDLINGDEMO: https://github.com/user-attachments/asse
 
 
 
+EXPERIMENT 4 OUTPUT PERFORMANCE: https://github.com/user-attachments/assets/113f334a-4853-4688-ae92-b3f77fc16aff
+
+
+
+
+
+
+EXPERIMENT 4 OUTPUT STRINGINTERVIEW:  https://github.com/user-attachments/assets/f05f715e-67c0-4203-882d-5c2328a23634
+ https://github.com/user-attachments/assets/aa0ec984-8fba-42c2-a08c-550f23d89fa9
+
+
+
+
+
+
+
 
 
 
