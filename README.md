@@ -92,6 +92,40 @@ EXPERIMENT 2 OUTPUT p8: https://github.com/user-attachments/assets/8e6dea59-56b6
 
 
 
+EXPERIMENT 2 OUTPUT p9:  https://github.com/user-attachments/assets/2d425370-4333-4b0f-ad1f-6c65f5f2c803
+
+
+
+
+
+EXPERIMENT 2 OUTPUT p10: https://github.com/user-attachments/assets/6bc74509-e910-489a-9440-f50acf699308
+
+
+
+
+
+
+EXPERIMENT 2 OUTPUT p11: https://github.com/user-attachments/assets/75153a62-0f57-4a63-97e5-6b17dd15ad5e 
+
+
+
+
+
+EXPERIMENT 2 OUTPUT p12: https://github.com/user-attachments/assets/d636df1a-e5c4-4d4b-bd98-6c39458c18f1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
